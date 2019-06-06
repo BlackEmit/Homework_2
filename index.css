@@ -1,0 +1,11 @@
+div{
+	background: green;
+	cursor: col-resize;
+	border: ridge;
+	width: 50%;
+	height: 50vh;
+}
+
+a{
+	border: groove red;
+}
